@@ -1,4 +1,4 @@
-# HTR-and-Summariser-using-Pretrained-models
+# HTR-and-Summariser
 For running either models just use the code 'streamlit run main.py' .
 
 Functional Dependanciies-
